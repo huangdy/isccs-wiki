@@ -1,0 +1,5 @@
+* [O/S] (aws_os)
+* [isccs] (aws_isccs)
+* [Node.js] (aws_nodejs)
+* [MySQL RDS] (aws_mysql_rds)
+* [Apache/TLS] (aws_httpd_ssl)

@@ -1,0 +1,1 @@
+Found this [page](http://branchandbound.net/blog/web/2013/08/some-angularjs-pitfalls/) which gives some pointers on how to avoid Angular's rendering artifacts. 
